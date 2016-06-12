@@ -18,7 +18,7 @@
 - [入门](#入门)
 - [开发工具](#开发工具)
 - [语法高亮](#语法高亮)
-- [代码片段](#代码片段
+- [代码片段](#代码片段)
 - [自动补全](#自动补全)
 - [组件集合](#组件集合)
 - [库和插件](#库和插件)
@@ -40,44 +40,44 @@
   - [商用](#商用)
   
  
-### Official Resources
+### 官方资源
 
-- [Official Guide](http://vuejs.org/guide/)
-- [API Reference](http://vuejs.org/api/)
-- [**GitHub Repo ★17,007**](https://github.com/vuejs/vue)
-- [Release Notes](https://github.com/vuejs/vue/releases)
+- [官方入门](http://vuejs.org/guide/)
+- [API 文档](http://vuejs.org/api/)
+- [**GitHub 库 ★17,007**](https://github.com/vuejs/vue)
+- [版本日志](https://github.com/vuejs/vue/releases)
 
-### External Resources
+### 外部资料
 
 - [Vue.js資料まとめ(for japanese)](https://gist.github.com/hashrock/f575928d0e109ace9ad0) by @hashrock
 
-### Community
+### 社区
 
 - [Twitter](https://twitter.com/vuejs)
 - [Gitter Chat Room](https://gitter.im/vuejs/vue)
-- [Official Forum](http://forum.vuejs.org/)
-- [vue-requests ★25](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
+- [官方论坛](http://forum.vuejs.org/)
+- [vue-requests ★25](https://github.com/vuejs/vue-requests) - 请求一个你想要的Vuejs模块或充模块中获取灵感
 
-### Podcasts
+### 博客
 
-- [Full Stack Radio #30 (11-23-2015)](http://www.fullstackradio.com/30)
+- [全栈广播 #30 (11-23-2015)](http://www.fullstackradio.com/30)
 - [JavaScript Jabber #187 (11-25-2015)](https://devchat.tv/js-jabber/187-jsj-vue-js-with-evan-you)
 - [Changelog #184 (11-27-2015)](https://changelog.com/184/)
-- [Software Engineering Daily (12-29-2015)](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
+- [软件工程师的日常 (12-29-2015)](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
 - [Javascript Air 016 (03-30-2016)](https://javascriptair.com/episodes/2016-03-30/)
 
-### Official Examples
+### 官方实例
 
-- [Basic Examples](http://vuejs.org/guide/)
+- [基础示例](http://vuejs.org/guide/)
 - [Vue.js TodoMVC](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
   - [CoffeeScript Version ★3](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js)
 - [**Vue.js HackerNews Clone ★908**](https://github.com/vuejs/vue-hackernews)
 
-### Tutorials
+### 入门
 
 - [Vue.js screencasts](https://laracasts.com/series/learning-vue-step-by-step) on Laracasts
-- [What's New in Vue.js 1.0](http://www.sitepoint.com/whats-new-in-vue-js-1-0/) on Sitepoint
-- [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/) on Auth0 blog
+- [Vue.js 1.0的新东西](http://www.sitepoint.com/whats-new-in-vue-js-1-0/) on Sitepoint
+- [使用Vue.js构建App: From Authentication to Calling an API](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/) on Auth0 blog
 - [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
 - [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit
 - [Vue.js build set-up from scratch with webpack, vue-loader and hot reload](http://skyronic.com/2015/12/28/vue-project-scratch/)
